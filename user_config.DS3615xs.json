@@ -8,11 +8,10 @@
     "mac2": "001132133466",
     "mac3": "001132133666",
     "mac4": "001132136767" 
-  },
-  
+  }, 
   "synoinfo": { 
-    "maxdisks" : "36", 
-    "internalportcfg" : "0xFFFFFFFF", 
+    "maxdisks" : "32", 
+    "internalportcfg" : "0xFFFF", 
     "esataportcfg" : "0x0",
     "supportsystemperature": "no",
     "supportsystempwarning": "no" 
