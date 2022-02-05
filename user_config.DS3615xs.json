@@ -1,21 +1,14 @@
 {
-  "extra_cmdline": { 
-    "vid": "0x46f4", 
-    "pid": "0x0001", 
-    "sn": "1130LWN123456", 
-    "netif_num":"4", 
-    "mac1": "001132133456", 
-    "mac2": "001132133466",
-    "mac3": "001132133666",
-    "mac4": "001132136767" 
-  }, 
-  "synoinfo": { 
-    "maxdisks" : "32", 
-    "internalportcfg" : "0xFFFF", 
-    "esataportcfg" : "0x0",
-    "supportsystemperature": "no",
-    "supportsystempwarning": "no" 
-    }, 
-    "ramdisk_copy": {}, 
+  "extra_cmdline": {
+    "vid": "0x46f4",
+    "pid": "0x0001",
+    "sn": "1130LWN123456",
+    "mac1": "001132123456"
+  },
+  "synoinfo": {
+    "maxdisks" : "16", 
+    "internalportcfg" : "0xFFFF"
+  },
+  "ramdisk_copy": {}, 
     "extensions": []
 }
